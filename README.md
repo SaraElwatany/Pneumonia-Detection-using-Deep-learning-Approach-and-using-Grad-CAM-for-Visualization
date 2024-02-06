@@ -8,8 +8,8 @@ Class Activation Mapping and Convolutional Neural Networks Thao Minh Nguyen" pap
 ## Approaches
 In Our Implemetation 2 Approaches Can be used:
 
-1- Using Augmentation
-2- Without Augmentation (Combining The train & val images for training)
+1. Using Augmentation
+2. Without Augmentation (Combining The train & val images for training)
 
 
 
