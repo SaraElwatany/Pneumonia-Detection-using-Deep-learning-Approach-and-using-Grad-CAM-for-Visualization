@@ -24,8 +24,25 @@ However Due to the memory overflow in colab notebooks, we weren't able to run us
 
 ![Screenshot 2024-02-12 210553](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/fdca8e6c-c935-40a1-b693-d644c023c14a)
 
+## Evaluation of our models used
+
+![Screenshot 2024-02-12 210537](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/8ebd3a90-9e36-41d5-99d0-ddb5c989559c)
+
+![Screenshot 2024-02-12 210614](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/1a24dcd7-69ae-4f44-b047-719e02049171)
+
+![Screenshot 2024-02-12 210624](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/e4d3afb9-c20f-42ea-b959-40fcbb830d05)
+
+## Comparison between our output & the paper's
+
+![Screenshot 2024-02-12 210712](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/b292dba7-a4ec-4d27-86a7-328ac7a5d832)
+
+![Screenshot 2024-02-12 210719](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/33d976b8-99a2-498a-8139-1ee581b2c9ab)
+
 ## Snapshots
 
+![Screenshot 2024-02-12 210643](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/7e66ca4c-26fc-4104-b6d1-a2b22a9a9d27)
+
+![Screenshot 2024-02-12 210655](https://github.com/SaraElwatany/Pneumonia-Detection-using-Deep-learning-Approach-and-using-Grad-CAM-for-Visualization/assets/93448764/4b679613-cc4d-45d4-9186-3e78d8dce9fc)
 
 ## Related Links
 - https://www.researchgate.net/publication/352471445_Clinical_Decision_Support_Systems_for_Pneumonia_Diagnosis_Using_Gradient-Weighted_Class_Activation_Mapping_and_Convolutional_Neural_Networks
