@@ -7,6 +7,10 @@ Pneumonia Detection from X-ray images using several pretrained Deep learning Mod
 We used the "Chest X-Ray Images (Pneumonia)" Dataset from Kaggle. In this repository we implemented the "Clinical Decision Support Systems for Pneumonia Diagnosis Using Gradient-Weighted 
 Class Activation Mapping and Convolutional Neural Networks Thao Minh Nguyen" paper (link of the paper will be included at the end of the README File).
 
+## Objective
+
+The input is a chest x-ray image in jpeg format, where the input is either diagnosed with pneumonia or not, and then the output is used to get the derivative of it with respect to the feature maps from the convolutional layers (to get the gradients), where gradients are used to get the weighted features after performing global average pooling on them, the weighted features are then aggregated to end up with just one feature map and RELU activation function is used to eliminate any negative values, the resulting heatmap is then upsampled to match the original input's size, where both (original input image & the heatmap) are summed/added to end up with the visual interpretation of the model's output.
+
 ## Approaches
 In Our Implemetation 2 Approaches Can be used:
 
